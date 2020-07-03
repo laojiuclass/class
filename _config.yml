@@ -7,10 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 老九课堂
-description: 一切为了学生
-github_username: 蒋杭州  # 你的用户名
+description: 联系方式：qq:710910186      邮箱：qq@710910186
+github_username: 蒋老师  # 你的用户名
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpagesJupyter" #你的仓库名
+github_repo: "老九课堂" #你的仓库名
 
 # OPTIONAL: override baseurl and url if using a custom domain 可选项，如果你有自己的域名，并且需要绑定到该网站
 # Note: leave out the trailing / from this value.  写下域名，不要在最后加斜杠/ 
@@ -38,9 +38,9 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".网站子路径，一�
 
 # Github and twitter are optional:可以在网页底部显示自己的推特和github链接
 minima:
-  social_links:
+    QQ:710910186
     twitter: 
-    github: EasonQYS
+    github: 
 
 # Set this to true to get LaTeX math equation support 显示LaTeX数学符号
 use_math: true
